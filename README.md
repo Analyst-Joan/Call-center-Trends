@@ -1,4 +1,4 @@
-# Call-center-Trends
+# Call Center Trends
 
 ![Call Center image](Call_center.JPG)
 
