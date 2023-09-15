@@ -166,7 +166,7 @@ Having identified & visualized the agents’ and customers’ behaviours, the da
 ![](call_center_trends_dashboard.PNG)
 
 ## Conclusion
-Insights and recommendation were not requested at this time, hence I designed an [interactive Dashboard]() to provide flexibility for Claire, the Call Center Manager, to enable him query varying metrics and be empowered to present the findings to the management team for discourse and further actions where required. 
+Insights and recommendation were not requested at this time, hence I designed an [interactive Dashboard](https://drive.google.com/file/d/1MvkkSsIpUXUHjWHVoG40-ZmxsFSiny1y/view?usp=sharing) to provide flexibility for Claire, the Call Center Manager, to enable him query varying metrics and be empowered to present the findings to the management team for discourse and further actions where required. 
 
 Thank you.
 
